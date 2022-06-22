@@ -39,30 +39,41 @@ In this application, a user can enter the application with his/her name, add inc
 ## Implemented Software
 
    IDE: Android Studio 2021.2.1.15
+   
    JDK - Java 18
+   
    Framework – Flutter 3.0.2 
+   
    Database – Hive Db
+   
    Version control – Github
+   
 
-## Application Version with source code:
-Git hub Repository Name: 
-Git hub Repository Link: 
 
 
 ## Future Update 
+
 •	Authentication.
+
 •	Cloud Storage.
+
 
 
 ## Challenges Faced 
 
 •	Faced error into database issue.
+
 •	Different kinds of framework version issue.
+
 •	Faced not getting any data from user input.
+
 •	Front end logical issue.
+
 •	Faced Some Little bugs.
 
+
 ## Conclusion 
+
 This was a great experience doing this project. This project was intended to make money management system easier and reliable. I hope the intention of the program gets full filled. The challenges faced and the learning i have gone through will come in great help in the future.
 
 
@@ -76,6 +87,7 @@ This was a great experience doing this project. This project was intended to mak
 
 
 Money Manager © Sandbox 
+
 ©2022. All rights reserved
 
 
