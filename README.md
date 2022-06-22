@@ -30,7 +30,10 @@ In this application, a user can enter the application with his/her name, add inc
 ## Add Transaction
 ![image](https://user-images.githubusercontent.com/63856744/175022983-60083501-2f0d-45f4-bdce-dcf72356aa67.png) ![image](https://user-images.githubusercontent.com/63856744/175022997-9b92beae-3ce2-4eb7-b0ca-52965112c55a.png) ![image](https://user-images.githubusercontent.com/63856744/175023017-40d1a729-913c-4032-9d7e-49c453762427.png)![image](https://user-images.githubusercontent.com/63856744/175023031-a441324f-7b8d-4ce6-98d2-c8c2df32cae1.png)
 
+##   Add Rename 
 
+
+![image](https://user-images.githubusercontent.com/63856744/175023289-a7930e3f-3b21-483a-8024-8f636a3ede03.png) ![image](https://user-images.githubusercontent.com/63856744/175023311-1dbabfba-d9a9-493d-8750-0c3deb1959c3.png)
 
 
 
