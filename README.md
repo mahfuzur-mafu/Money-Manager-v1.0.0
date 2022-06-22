@@ -27,6 +27,11 @@ In this application, a user can enter the application with his/her name, add inc
 ## HomePage 
 ![image](https://user-images.githubusercontent.com/63856744/175022792-2c40ee3c-d16b-4247-b543-263ecb375b1b.png) ![image](https://user-images.githubusercontent.com/63856744/175022817-b5e45dcd-2220-4e15-b550-7ae608c5bc31.png) ![image](https://user-images.githubusercontent.com/63856744/175022834-3bd6d689-4334-463f-b9f5-3de6c2c1336a.png)
 
+## Add Transaction
+![image](https://user-images.githubusercontent.com/63856744/175022983-60083501-2f0d-45f4-bdce-dcf72356aa67.png) ![image](https://user-images.githubusercontent.com/63856744/175022997-9b92beae-3ce2-4eb7-b0ca-52965112c55a.png) ![image](https://user-images.githubusercontent.com/63856744/175023017-40d1a729-913c-4032-9d7e-49c453762427.png)![image](https://user-images.githubusercontent.com/63856744/175023031-a441324f-7b8d-4ce6-98d2-c8c2df32cae1.png)
+
+
+
 
 
 
