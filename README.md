@@ -35,6 +35,10 @@ In this application, a user can enter the application with his/her name, add inc
 
 ![image](https://user-images.githubusercontent.com/63856744/175023289-a7930e3f-3b21-483a-8024-8f636a3ede03.png) ![image](https://user-images.githubusercontent.com/63856744/175023311-1dbabfba-d9a9-493d-8750-0c3deb1959c3.png)
 
+## Delete Transaction
+![image](https://user-images.githubusercontent.com/63856744/175323786-bc40b90d-31d4-4adc-91d9-c7cc95c48361.png)
+
+
   
 ## Implemented Software
 
@@ -72,12 +76,33 @@ In this application, a user can enter the application with his/her name, add inc
 •	Faced Some Little bugs.
 
 
+
 ## Conclusion 
 
-This was a great experience doing this project. This project was intended to make money management system easier and reliable. I hope the intention of the program gets full filled. The challenges faced and the learning i have gone through will come in great help in the future.
+## Limitations:
+Still there are some limitations to this Expense manager app. If I just want to go through a brief discussion then I can say that I could make the UI more attractive. We could add more features to this project.
+
+•	It would be better if we could add time for each transaction.
+
+•	If we could add cloud storage it will make better to get the data at any devices
+.
+I have found out the mentioned limitations above. I am so on it to meet those limitations and build a competitive application.
 
 
-                    ~~Thank you for using Money manager v1.0.0~~ 
+## Highlighting point:
+
+•	User can make unlimited Transactions.
+
+•	Users can delete any transaction at any time.
+
+•	The UI is simple and minimal.
+
+•	User can rename his/her name at any time.
+
+## Future Scope
+
+This project has achieved the objective of building simple application using flutter. The development of this project has been achieved by using dart and flutter which is becoming popular likely to be the choice of development for mobile app developers in the future. This project can be further extended as per as user requirements.
+
 
 
 
