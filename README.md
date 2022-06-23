@@ -17,6 +17,22 @@ In this application, a user can enter the application with his/her name, add inc
 
 •	A user will be able to delete the transaction
 
+## Use case Diagram 
+
+ ![image](https://user-images.githubusercontent.com/63856744/175324568-343bf369-6b61-40d4-b06e-be2ad5c09c23.png)
+
+      
+
+## Entity Relationship Diagram 
+
+ 
+![image](https://user-images.githubusercontent.com/63856744/175324601-aed6797e-0d60-4214-b5e4-c8dd93bc7207.png)
+
+
+## Working Process
+![image](https://user-images.githubusercontent.com/63856744/175324677-d78293bb-b6b9-4b33-be71-561b895c57af.png)
+
+A user can log in to the application using his name. After logging in, he can view the homepage. If the transaction is not done in the first case, he will be asked to add the transaction. When he adds the transaction, he will be able to add the transaction after the amount of money, the transaction details will be in the income sector or his details in the expense sector and the date on which he is transacting. The amount of his transaction can then be seen in the details in the dashboard above. A user can change his name from the settings icon at any time. A user can delete his transaction at any time.
 
 # Features 
 
